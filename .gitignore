@@ -40,6 +40,9 @@ ENV/
 *.sqlite3
 database.json
 asked_questions.json
+*.bak
+db_version.json
+database_backups/
 
 # Logs
 *.log
